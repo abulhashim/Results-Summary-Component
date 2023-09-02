@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/results-summary-component](https://www.frontendmentor.io/solutions/results-summary-component)
+- Solution URL: [frontendmentor.io/solutions/results-summary-component](https://www.frontendmentor.io/solutions/results-summary-component-using-reactjs-and-tailwind-css-b6rIDIJlkH)
 - Live Site URL: [abulhashim.github.io/Results-Summary-Component](https://abulhashim.github.io/Results-Summary-Component/)
 
 ## My process
